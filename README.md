@@ -14,8 +14,20 @@ I set up the Model 3 to connect to my wi-fi network.  According to the manual, w
 Touch the cellular icon at the top left of the screen.  The Model 3 displays a list of networks it found.  Select a network for connection, enter the password, and touch Confirm.
 
 ### Learn the Menus
-From the main screen, there is the Controls menu, an App Launcher, and the Tesla About Box.  In my opinion, learn and use these menus only while in Park.
+From the main screen, there is the Controls menu, the Cards area, an App Launcher, and the Tesla About Box.  In my opinion, learn and use these menus only while in Park.
 
 The Controls menu displays a menu of vehicle control items.  I found it beneficial to learn and experiment with each menu item.  Many of the controls have an "Automated" setting.  This reduces driver distraction and improves safety.  While I made changes to many items, I left them in an "Automated" setting.  As I learn more about driving the Model 3, I might make changes.
 
-The App Launcher displays applications available from the Model 3.  I expect these to change over time.  I found the Energy application to be intriguing.  I expect to use this to learn how to use the Model 3 energy to improve range.
+Cards
+
+The App Launcher displays applications available from the Model 3.  I expect these to change over time.  I found the Energy application to be intriguing.  I expect to use this to learn how to use the Model 3 energy to improve range.  Some of the remaining applications are available through other areas of the Touchscreen.  I do not expect to use the Calendar or the Phone.
+
+Lastly, touch the Tesla logo at the top of the screen to display the Tesla About Box.  In the About Box, there is a link to the Owner's Manual at the lower left.  At the center top of the About Box, swipe down to display Easter Eggs.  I encourage you to try a few games in the Tesla Arcade!
+
+### My First Charging Experience
+I used the OEM equipment to charge the Model 3 from a 120 volt socket.  I installed the 120 volt adapter into the Mobile Connector (the larger end).  When I plugged the adapter into the socket, a reassuring green light appeared behind the word Tesla.
+
+There are three methods of opening the charging port: from the Touchscreen, a double-click on the charging plug (the smaller end of the Mobile Connector), and pressing the lower right edge of the charging port.  Once it was open, I waited for the Tesla log to turn blue and inserted the charging plug.  The Tesla logo flashed green indicating to the Model 3 was charging.
+
+The next day, I wanted to disconnect the charging plug from the Model 3.  When I pulled on it, it would not come out.  NOTE: the charging plug is locked in place.  After I turned on the Model 3, it unlocked the charging plug and I was able to remove the it.  Alternative, press and hold the button on the charging plug to release the lock.
+
