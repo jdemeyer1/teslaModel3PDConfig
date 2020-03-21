@@ -1,5 +1,5 @@
 # Model 3 Post Delivery Set Ups and Learnings
-Use this [referral](https://ts.la/josephe14597) when ordering your Tesla to receive 1000 free Supercharging miles (available in many states; not available in Ohio).
+Thanks for reading!  Use this [referral](https://ts.la/josephe14597) when ordering your Tesla to receive 1000 free Supercharging miles (available in many states; not available in Ohio).
 
 ## Delivery Day
 I used this [checklist](https://github.com/mykeln/teslaprep) to review my Model 3 on Delivery Day.  When I arrived home, I was curious about many things.  I really wanted to go for another ride so I invited my son to join me and off we went.  I recommend just driving to learn about the control, the regenerative braking, and the acceleration!
