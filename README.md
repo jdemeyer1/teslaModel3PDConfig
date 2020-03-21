@@ -11,16 +11,16 @@ I had ordered [floor mats](https://www.taptes.com/products/taptes-3d-all-weather
 
 ### Wi-Fi
 I set up the Model 3 to connect to my wi-fi network.  According to the manual, wi-fi is often faster than cellular networks.  I found it helpful to have the password of my network available.
-Touch the cellular icon at the top left of the screen.  The Model 3 displays a list of networks it found.  Select a network for connection, enter the password, and touch Confirm.
+Touch the cellular icon at the top right of the screen (it initially appears as LTE or 3G).  The Model 3 displays a list of networks it found.  Select a network for connection, enter the password, and touch Confirm.
 
 ### Learn the Menus
 From the main screen, there is the Controls menu, the Cards area, an App Launcher, and the Tesla About Box.  In my opinion, learn and use these menus only while in Park.
 
-The Controls menu displays a menu of vehicle control items.  I found it beneficial to learn and experiment with each menu item.  Many of the controls have an "Automated" setting.  This reduces driver distraction and improves safety.  While I made changes to many items, I left them in an "Automated" setting.  As I learn more about driving the Model 3, I might make changes.
+The Controls menu displays a menu of vehicle control items.  Touch the Model 3 icon at the lower left to display the Controls menu.  I found it beneficial to learn and experiment with each menu item.  Many of the controls have an "Automated" setting.  This reduces driver distraction and improves safety.  While I made changes to many items, I left them in an "Automated" setting.  As I learn more about driving the Model 3, I might make changes. 
 
 The Cards area provide indicators for seat belts, access to the rear view camera, wipers, and other information.  Swipe right to review Wipers; swipe right to review tire pressure.  The tire pressure information showed no indications which may indicate the tires are at their expected pressure.  I have not tried the Trips feature.
 
-The App Launcher displays applications available from the Model 3.  I expect these to change over time.  I found the Energy application to be intriguing.  I expect to use this to learn how to use the Model 3 energy to improve range.  Some of the remaining applications are available through other areas of the Touchscreen.  I do not expect to use the Calendar or the Phone.
+The App Launcher displays applications available from the Model 3.  Touch the App Launcher icon (lower left and to the right of the Music icon) to display the Apps screen.  I expect these to change over time.  I found the Energy application to be intriguing.  I expect to use this to learn how to use the Model 3 energy to improve range.  Some of the remaining applications are available through other areas of the Touchscreen.  I do not expect to use the Calendar or the Phone.
 
 Lastly, touch the Tesla logo at the top of the screen to display the Tesla About Box.  In the About Box, there is a link to the Owner's Manual at the lower left.  At the center top of the About Box, swipe down to display Easter Eggs.  I encourage you to try a few games in the Tesla Arcade!
 
