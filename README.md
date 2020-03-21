@@ -31,3 +31,11 @@ There are three methods of opening the charging port: from the Touchscreen, a do
 
 The next day, I wanted to disconnect the charging plug from the Model 3.  When I pulled on it, it would not come out.  NOTE: the charging plug is locked in place.  After I turned on the Model 3, it unlocked the charging plug and I was able to remove the it.  Alternative, press and hold the button on the charging plug to release the lock.
 
+### Locked Car Acknowledgement
+After the Model 3 locks, it flashes its lights and toots its horn.  Having this acknowledgement occur early in the morning could be annoying.  This is configurable.  From the Touchscreen, select Controls -> Locks.  Disable the Lock Confirmation Sound.
+
+### Autopilot
+While I was out for a drive, I attempted to engage Autopilot.  I discovered Autopilot is delivered in a disabled state.  That is, Autopilot is installed but could not engage.  I think this is a good thing.  I recommend driving the car a few miles to get a feel for its behaviors.
+
+From the Touchscreen, select Controls -> Autopilot.  Enable Autosteer (Beta).  I agree and support the warnings and recommendation from Tesla on using this feature.  I strongly recommend reading about the various settings available in Autopilot before using it.  I strongly recommend learning to drive the Model 3 without Autopilot so that you are prepared and confident should something unexpected occur.
+
