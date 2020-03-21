@@ -39,3 +39,4 @@ While I was out for a drive, I attempted to engage Autopilot.  I discovered Auto
 
 From the Touchscreen, select Controls -> Autopilot.  Enable Autosteer (Beta).  I agree and support the warnings and recommendation from Tesla on using this feature.  I strongly recommend reading about the various settings available in Autopilot before using it.  I strongly recommend learning to drive the Model 3 without Autopilot so that you are prepared and confident should something unexpected occur.
 
+### Dashcam and Sentry
