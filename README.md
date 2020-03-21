@@ -15,5 +15,7 @@ Touch the cellular icon at the top left of the screen.  The Model 3 displays a l
 
 ### Learn the Menus
 From the main screen, there is the Controls menu, an App Launcher, and the Tesla About Box.  In my opinion, learn and use these menus only while in Park.
+
 The Controls menu displays a menu of vehicle control items.  I found it beneficial to learn and experiment with each menu item.  Many of the controls have an "Automated" setting.  This reduces driver distraction and improves safety.  While I made changes to many items, I left them in an "Automated" setting.  As I learn more about driving the Model 3, I might make changes.
+
 The App Launcher displays applications available from the Model 3.  I expect these to change over time.  I found the Energy application to be intriguing.  I expect to use this to learn how to use the Model 3 energy to improve range.
