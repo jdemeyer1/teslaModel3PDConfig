@@ -3,6 +3,7 @@ Thanks for reading!  Use this [referral](https://ts.la/josephe14597) when orderi
 
 ## Delivery Day
 I used this [checklist](https://github.com/mykeln/teslaprep) to review my Model 3 on Delivery Day.  When I arrived home, I was curious about many things.  But, I really wanted to go for another ride so I invited my son to join me and off we went.  I recommend just driving to learn about the control, the regenerative braking, and the acceleration!
+
 That first night, I sat in the driver's seat reading, learning, and experimenting.  This is a list of set ups and learnings.
 
 ## Set Up and Learnings
