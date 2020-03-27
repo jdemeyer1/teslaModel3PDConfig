@@ -17,7 +17,7 @@ Touch the cellular icon at the top right of the screen (it initially appears as 
 ### Learn the Menus
 From the Touchscreen, there is the Controls menu, the Cards area, an App Launcher, and the Tesla About Box.  In my opinion, learn and use these menus only while in Park.
 
-The Controls menu displays a menu of vehicle control items.  Touch the !Model 3 icon [](images/ControlsMenu.jpg) at the lower left to display the Controls menu.  I found it beneficial to learn and experiment with each menu item.  Many of the controls have an "Automated" setting.  This reduces driver distraction and improves safety.  While I made changes to many items, I returned them to the "Automated" setting.  As I learn more about driving the Model 3, I might make changes. 
+The Controls menu displays a menu of vehicle control items.  Touch the Model 3 icon ![](images/ControlsMenu.jpg) at the lower left to display the Controls menu.  I found it beneficial to learn and experiment with each menu item.  Many of the controls have an "Automated" setting.  This reduces driver distraction and improves safety.  While I made changes to many items, I returned them to the "Automated" setting.  As I learn more about driving the Model 3, I might make changes. 
 
 The Cards area provide indicators for seat belts, access to the rear view camera, wipers, and other information.  Swipe left to review Trips information; swipe right to review tire pressure.  The tire pressure information showed no indications which may indicate the tires are at their expected pressure.  I have not tried the Trips feature.
 
