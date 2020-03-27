@@ -30,7 +30,9 @@ I used the OEM equipment to charge the Model 3 from a 120 volt socket.  I instal
 
 There are three methods of opening the charging port: from the Touchscreen, a double-click on the charging plug (the smaller end of the Mobile Connector), and pressing the lower right edge of the charging port.  Once it was open, I waited for the Tesla logo to turn blue and inserted the charging plug.  The Tesla logo flashed green indicating to the Model 3 was charging.
 
-The next day, I wanted to disconnect the charging plug from the Model 3.  When I pulled on it, it would not come out.  **NOTE:** The charging plug is locked in place.  After I turned on the Model 3, it unlocked the charging plug and I was able to remove the it.  Alternatively, press and hold the button on the charging plug to release the lock.
+The next day, I wanted to disconnect the charging plug from the Model 3.  When I pulled on it, it would not come out.  **NOTE:** The charging plug is locked in place.
+
+After I turned on the Model 3, it unlocked the charging plug and I was able to remove it.  Alternatively, press and hold the button on the charging plug to release the lock.
 
 ### Locked Car Acknowledgement
 After the Model 3 locks, it flashes its lights and toots its horn.  I found that having a horn acknowledgement occur early in the morning could be annoying to sleeping family members or neighbors.  This acknowledgement is configurable.  From the Touchscreen, select Controls -> Locks.  Disable the Lock Confirmation Sound.
