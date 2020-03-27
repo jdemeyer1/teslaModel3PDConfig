@@ -23,7 +23,7 @@ The Cards area provide indicators for seat belts, access to the rear view camera
 
 The App Launcher displays applications available from the Model 3.  Touch the App Launcher icon (<img src="images/AppLauncherMenu.jpg" width="25" height="20"> at lower left and to the right of the Music icon) to display the Apps screen.  I expect these to change over time.  I found the Energy application to be intriguing.  I want to learn more about this so I can improve Model 3 range.  Some of the remaining applications are available through other areas of the Touchscreen.  I do not expect to use the Calendar or the Phone applications.
 
-Lastly, touch the Tesla logo at the top of the screen to display the Tesla About Box.  In the About Box, there is a link to the Owner's Manual at the lower left.  At the center top of the About Box, swipe down to display Easter Eggs.  I encourage you to try a few games in the Tesla Arcade!
+Lastly, touch the Tesla logo <img src="images/TeslaAbout.jpg" width="25" height="20"> at the top of the screen to display the Tesla About Box.  In the About Box, there is a link to the Owner's Manual at the lower left.  At the center top of the About Box, swipe down to display Easter Eggs.  While I encourage you to try a few games in the Tesla Arcade, I did not find the steering wheel control very responsive.
 
 ### My First Charging Experience
 I used the OEM equipment to charge the Model 3 from a 120 volt socket.  I installed the 120 volt adapter into the Mobile Connector (the larger end).  When I plugged the adapter into the 120 volt socket, a reassuring green light appeared behind the word Tesla on the Mobile Connector.
