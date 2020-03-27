@@ -45,6 +45,6 @@ From the Touchscreen, select Controls -> Autopilot.  Enable Autosteer (Beta).  I
 ### Dashcam and Sentry
 I had seen videos from the Sentry mode and wanted to learn more about it.  While reading the manual (it's a habit), I found information on the Dashcam.  Both features record video (no sound) to the same flash drive which installs in one of the USB ports in the forward area of the Center Console (lift the phone dock for easy access).  Only the front USB ports may be used for Dashcam and Sentry.
 
-The flash drive requires a base-level folder named TeslaCam.  When the flash drive is installed in a USB port and the Model 3 is powered on, Dashcam begins recording video.  The flash drive must be removed to review recorded videos.
+The flash drive requires a base-level folder named TeslaCam.  When the flash drive is installed in a USB port and the Model 3 is powered on, Dashcam begins recording video.  A small camera icon <img src="images/" width="" height="") appears in the upper left.  A red dot indicates the Model 3 is recording.  The flash drive must be removed to review recorded videos.
 
 To enable Sentry Mode, touch the Sentry icon near the upper right of the Touchscreen, or navigate from the Touchscreen to Controls -> Safety & Security -> Sentry Mode.  Sentry Mode records video from all cameras when it enters Alert mode.  Sentry Mode may be disabled for places like Home and Work.
