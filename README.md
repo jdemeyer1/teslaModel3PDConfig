@@ -8,7 +8,7 @@ That first night, I sat in the driver's seat reading, learning, and experimentin
 
 ## Set Up and Learnings
 ### Floor Mats
-I had ordered [floor mats](https://www.taptes.com/products/taptes-3d-all-weather-floor-mats-for-tesla-model-3) for the Model 3.  Before I did anything else, I wanted to install them to protect the original floor.  When I opened the driver's side door, I found specs of dust and dirt from my shoes.  The passenger side was the same.  I vacuumed both sides before installing the floor mats.  **NOTE:** My Model 3 did not have OEM floor mats.
+I had ordered [floor mats](https://www.taptes.com/products/taptes-3d-all-weather-floor-mats-for-tesla-model-3) for the Model 3.  Before I did anything else, I wanted to install them to protect the original floor.  When I opened the driver's side door, I found specs of dust and dirt from my shoes.  The passenger side was the same.  I vacuumed both sides and the back before installing the floor mats.  **NOTE:** My Model 3 did not have OEM floor mats.
 
 ### Wi-Fi
 I set up the Model 3 to connect to my wi-fi network.  According to the manual, wi-fi is often faster than cellular networks.  I found it helpful to have the password of my network available.
