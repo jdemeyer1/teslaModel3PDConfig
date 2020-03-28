@@ -12,7 +12,7 @@ I had ordered [floor mats](https://www.taptes.com/products/taptes-3d-all-weather
 
 ### Wi-Fi
 I set up the Model 3 to connect to my wi-fi network.  According to the manual, wi-fi is often faster than cellular networks.  I found it helpful to have the password of my network available.
-Touch the cellular icon at the top right of the screen (it initially appears as LTE or 3G).  The Model 3 displays a list of networks it found.  Select a network for connection, enter the password, and touch Confirm.  The wifi icon appears when a connection is established.
+Touch the cellular icon <img src="images/CellIcon.jpg" width="27" height="20"> at the top right of the screen.  The Model 3 displays a list of networks it found.  Select a network for connection, enter the password, and touch Confirm.  The wifi icon <img src="images/WifiIcon.jpg" width="27" height="20"> appears when a connection is established.
 
 ### Learn the Menus
 From the Touchscreen, there is the Controls menu, the Cards area, an App Launcher, and the Tesla About Box.  In my opinion, learn and use these menus only while in Park.
