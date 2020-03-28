@@ -26,7 +26,7 @@ The App Launcher displays applications available from the Model 3.  Touch the Ap
 Lastly, touch the Tesla logo <img src="images/TeslaAbout.jpg" width="25" height="20"> at the top of the screen to display the Tesla About Box.  In the About Box, there is a link to the Owner's Manual at the lower left.  At the center top of the About Box, swipe down to display Easter Eggs.  While I encourage you to try a few games in the Tesla Arcade, I did not find the steering wheel control very responsive.
 
 ### My First Charging Experience
-I used the OEM equipment to charge the Model 3 from a 120 volt socket.  I installed the 120 volt adapter into the Mobile Connector (the larger end).  When I plugged the adapter into the 120 volt socket, a reassuring green light appeared behind the word Tesla on the Mobile Connector.
+I used the OEM equipment to charge the Model 3 from a 120 volt socket.  I installed the 120 volt adapter into the Mobile Connector (the larger end).  When I plugged the adapter into the 120 volt socket, a reassuring green light appeared behind the word Tesla on the Mobile Connector <img src="images/Charger.jpg" width="50" height="75">.
 
 There are three methods of opening the charging port: from the Touchscreen, a double-click on the charging plug (the smaller end of the Mobile Connector), and pressing the lower right edge of the charging port.  Once it was open, I waited for the Tesla logo to turn blue and inserted the charging plug.  The Tesla logo flashed green indicating to the Model 3 was charging.
 
