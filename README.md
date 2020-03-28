@@ -43,7 +43,7 @@ While I was out for a drive, I attempted to engage Autopilot.  I discovered Auto
 You must be in Park to make this change.  From the Touchscreen, select Controls -> Autopilot.  Enable Autosteer (Beta).  I agree and support the warnings and recommendation from Tesla on using this feature.  I strongly recommend reading about the various settings available in Autopilot before using it.  I strongly recommend learning to drive the Model 3 without Autopilot so that you are prepared and confident should something unexpected occur.
 
 ### Dashcam and Sentry
-I had seen videos from the Sentry mode and wanted to learn more about it.  While reading the manual (it's a habit), I found information on the Dashcam.  Both features record video (no sound) to the same flash drive which installs in one of the USB ports in the forward area of the Center Console (lift the phone dock for easy access).  Only the front USB ports may be used for Dashcam and Sentry.
+I had seen videos from the Sentry mode and wanted to learn more about it.  While reading the manual (it's a habit), I found information on the Dashcam.  Both the Dashcam and Sentry record video (no sound) to the same flash drive which installs in one of the USB ports in the forward area of the Center Console (lift the phone dock for easy access).  Only the front USB ports may be used for Dashcam and Sentry.
 
 The flash drive requires a base-level folder named TeslaCam.  When the flash drive is installed in a USB port and the Model 3 is powered on, Dashcam begins recording video.  A small camera icon <img src="images/DashCam.jpg" width="25" height="20"> appears in the upper left.  A red dot indicates the Model 3 is recording.  The flash drive must be removed to review recorded videos.
 
